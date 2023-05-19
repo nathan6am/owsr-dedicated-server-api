@@ -1,0 +1,91 @@
+{
+  "EnableStracker": false,
+  "InstanceConfiguration": {
+    "ACServerAddress": "127.0.0.1",
+    "ACServerConfigIni": "/home/owsradmin/acserver/assetto/cfg/server_cfg.ini",
+    "ACServerWorkingDir": "/home/owsradmin/acserver/assetto",
+    "AppendLogFile": false,
+    "IDBasedOnDriverNames": false,
+    "KeepAlivePtrackerConnections": true,
+    "ListeningPort": 50042,
+    "LogFile": "./stracker.log",
+    "LogLevel": "info",
+    "LogTimestamps": true,
+    "LowerPriority": true,
+    "PerformChecksumComparisons": false,
+    "PtrackerConnectionMode": "any",
+    "ServerName": "acserver",
+    "TeeToStdout": true
+  },
+  "SwearFilter": {
+    "Action": "none",
+    "BanDuration": 30,
+    "NumberOfWarnings": 3,
+    "SwearFile": "bad_words.txt",
+    "Warning": "Please be polite and do not swear in the chat. You will be %(swear_action)s from the server after receiving %(num_warnings_left)d more warnings."
+  },
+  "SessionManagement": {
+    "RaceOverStrategy": "none",
+    "WaitSecondsBeforeSkip": 15
+  },
+  "Messages": {
+    "BestLapTimeBroadcastThreshold": 105,
+    "CarToCarCollisionMessage": true,
+    "MessageTypesToSendOverChat": "best_lap+welcome+race_finished"
+  },
+  "Database": {
+    "DatabaseFile": "./stracker.db3",
+    "DatabaseType": "sqlite3",
+    "PerformBackups": true,
+    "PostgresDatabaseName": "stracker",
+    "PostgresHostname": "localhost",
+    "PostgresUsername": "myuser",
+    "PostgresPassword": "password"
+  },
+  "DatabaseCompression": {
+    "Interval": 60,
+    "Mode": "none",
+    "NeedsEmptyServer": 1
+  },
+  "HTTPConfiguration": {
+    "Enabled": true,
+    "ListenAddress": "0.0.0.0",
+    "ListenPort": 50041,
+    "PublicURL": "",
+    "AdminUsername": "admin",
+    "AdminPassword": "",
+    "TemperatureUnit": "degc",
+    "VelocityUnit": "kmh",
+    "AuthBanAnonymisedPlayers": false,
+    "AuthLogFile": "",
+    "Banner": "",
+    "EnableSVGGeneration": true,
+    "InverseNavbar": true,
+    "ItemsPerPage": 20,
+    "LapTimesAddColumns": "valid+aids+laps+date",
+    "LogRequests": false,
+    "MaximumStreamingClients": 10,
+    "SSL": false,
+    "SSLCertificate": "",
+    "SSLPrivateKey": ""
+  },
+  "WelcomeMessage": {
+    "Line1": "Welcome to stracker %(version)s",
+    "Line2": "",
+    "Line3": "",
+    "Line4": "Your activities on this server are tracked. By driving on this server you give consent to store and process",
+    "Line5": "information like your driver name, steam GUID, chat messages and session statistics. You can anonymize this",
+    "Line6": "data by typing the chat message \"/st anonymize on\". You might not be able to join the server again afterwards."
+  },
+  "ACPlugin": {
+    "ReceivePort": -1,
+    "SendPort": -1,
+    "ProxyPluginLocalPort": -1,
+    "ProxyPluginPort": -1
+  },
+  "LapValidChecks": {
+    "InvalidateOnCarCollisions": true,
+    "InvalidateOnEnvironmentCollisions": true,
+    "PtrackerAllowedTyresOut": -1
+  }
+}

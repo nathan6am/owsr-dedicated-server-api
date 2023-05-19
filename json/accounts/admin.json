@@ -1,0 +1,40 @@
+{
+  "ID": "d080b424-b178-4519-8ea2-591cb521b705",
+  "Created": "2022-08-28T02:12:11.347655574Z",
+  "Updated": "2022-08-28T02:25:13.227061372Z",
+  "Deleted": "0001-01-01T00:00:00Z",
+  "Name": "admin",
+  "PermissionGroupsV2": {
+    "f53b478b-e4f9-4ee4-984f-d50681752fe5": [
+      84,
+      239,
+      125,
+      47,
+      244,
+      126,
+      67,
+      106,
+      140,
+      71,
+      7,
+      240,
+      167,
+      116,
+      156,
+      36
+    ]
+  },
+  "DriverName": "",
+  "GUID": "",
+  "Team": "",
+  "PasswordHash": "242556f680f6a3517e81b2a17d915abb78a478b2d879548a3e52a885c18abd30674633b76026d67de098604932798f970cf4a11128eeff2ae9bab6e33c513bc0",
+  "PasswordSalt": "b4795d3253e3b83636db620045f842e633fb6288a945cb6760721165b7fdb1b0",
+  "DefaultPassword": "",
+  "LastSeenVersion": "v2.2.2",
+  "HasSeenIntroPopup": false,
+  "Theme": "default",
+  "Group": "admin",
+  "Groups": {
+    "f53b478b-e4f9-4ee4-984f-d50681752fe5": "admin"
+  }
+}

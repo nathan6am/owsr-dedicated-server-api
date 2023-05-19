@@ -1,0 +1,1172 @@
+[
+  {
+    "User": "",
+    "UserGroup": "No Access",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/login",
+    "RemoteAddr": "108.28.115.179:52371",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:24:27.627687442Z"
+  },
+  {
+    "User": "",
+    "UserGroup": "No Access",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/login",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:24:40.229436923Z"
+  },
+  {
+    "User": "",
+    "UserGroup": "No Access",
+    "Action": "Failed login (username: admin)",
+    "Method": "POST",
+    "URL": "/login",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:24:40.307617276Z"
+  },
+  {
+    "User": "",
+    "UserGroup": "No Access",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/login",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:24:56.583891741Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/accounts/new-password",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:24:56.606366007Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/accounts/new-password",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:25:12.821576733Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Password change: admin",
+    "Method": "POST",
+    "URL": "/accounts/new-password",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:25:12.947624545Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/accounts/update",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:25:12.961792191Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/accounts/dismiss-changelog",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:25:13.226614274Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/new",
+    "RemoteAddr": "108.28.115.179:52374",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:25:45.058493913Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/custom/new/submit",
+    "RemoteAddr": "108.28.115.179:52416",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:28:08.639653512Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:52416",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:28:13.820882775Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/stracker/options",
+    "RemoteAddr": "108.28.115.179:52416",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:28:22.605991094Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/kissmyrank/options",
+    "RemoteAddr": "108.28.115.179:52416",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:28:25.73274104Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/realpenalty/options",
+    "RemoteAddr": "108.28.115.179:52416",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:30:19.070348031Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:52416",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:31:32.271847362Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:50214",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:33:02.712065922Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/realpenalty/options",
+    "RemoteAddr": "108.28.115.179:50214",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:33:32.173245697Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/edit/484374ad-6864-44ab-b43f-349c2b3d5a49",
+    "RemoteAddr": "108.28.115.179:50219",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:33:55.533135763Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/custom/new/submit",
+    "RemoteAddr": "108.28.115.179:50219",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:34:16.522829237Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/484374ad-6864-44ab-b43f-349c2b3d5a49",
+    "RemoteAddr": "108.28.115.179:50219",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:34:18.984161165Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:50219",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:34:19.013029296Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:50221",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:34:49.648041992Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/tracks",
+    "RemoteAddr": "108.28.115.179:50487",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:46:33.974924439Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/tracks?page=1",
+    "RemoteAddr": "108.28.115.179:50487",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:46:48.550491545Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/track/spa",
+    "RemoteAddr": "108.28.115.179:50487",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T02:46:52.65145921Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:52465",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:09:32.93672472Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:52474",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:09:46.712298543Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/realpenalty/options",
+    "RemoteAddr": "108.28.115.179:52474",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:09:53.734856612Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/realpenalty/options",
+    "RemoteAddr": "108.28.115.179:52474",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:10:48.802401145Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/new",
+    "RemoteAddr": "108.28.115.179:50069",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:24:44.124928855Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/cars/search.json?q=2022",
+    "RemoteAddr": "108.28.115.179:50069",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:25:40.041364099Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/cars/search.json?q=f2004",
+    "RemoteAddr": "108.28.115.179:50069",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:25:43.353249121Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/custom/new/submit",
+    "RemoteAddr": "108.28.115.179:50069",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:26:24.814901803Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:50069",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:26:25.341479512Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/delete/484374ad-6864-44ab-b43f-349c2b3d5a49",
+    "RemoteAddr": "108.28.115.179:50069",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:26:39.222791487Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:50069",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:26:41.058414968Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:50069",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:26:41.166607534Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:50272",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:31:04.67806Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:50272",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:31:07.972299735Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/realpenalty/options",
+    "RemoteAddr": "108.28.115.179:50272",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:31:15.392545143Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/realpenalty/options",
+    "RemoteAddr": "108.28.115.179:50272",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:31:23.939924716Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:50272",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:31:28.411658775Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:50291",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:32:22.871993176Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:50291",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:32:23.034595477Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/event-details?custom-race=5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:50294",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:32:34.988232521Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/restart-session",
+    "RemoteAddr": "108.28.115.179:50294",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:32:50.932996727Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:50583",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:36:02.960447023Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:50583",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:36:03.162363668Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:50594",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:36:39.647739146Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:54401",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:51:24.440616266Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:54492",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:54:45.925661079Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:54492",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T03:54:46.037965033Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:53623",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:05:45.656378832Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:53623",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:05:45.780001128Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/process/restart",
+    "RemoteAddr": "108.28.115.179:51979",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:11:54.044371492Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:52723",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:25:48.053678319Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:52723",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:25:48.157598074Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/server-options",
+    "RemoteAddr": "108.28.115.179:52728",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:26:01.351478074Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:52726",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:26:10.47510439Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:52728",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:26:15.032467933Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:60743",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:34:41.129441191Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:60743",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:34:41.239021725Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/edit/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:60743",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:35:13.397248605Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/custom/new/submit",
+    "RemoteAddr": "108.28.115.179:60743",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:35:32.020132284Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:60743",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:35:36.558017579Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:60743",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:35:36.843873068Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/realpenalty/options",
+    "RemoteAddr": "108.28.115.179:51940",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:43:30.944628891Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/realpenalty/options",
+    "RemoteAddr": "108.28.115.179:51940",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:43:44.063812713Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/kissmyrank/options",
+    "RemoteAddr": "108.28.115.179:51940",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:43:47.48035409Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/kissmyrank/options",
+    "RemoteAddr": "108.28.115.179:52123",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:45:15.800416211Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/kissmyrank/options",
+    "RemoteAddr": "108.28.115.179:52135",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:46:27.671406582Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:52135",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:46:37.845739947Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:52135",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:46:38.028695365Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:52151",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:47:25.408873312Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/cars",
+    "RemoteAddr": "108.28.115.179:52857",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:55:02.233510442Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/edit/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:52929",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:55:27.366065573Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/custom/new/submit",
+    "RemoteAddr": "108.28.115.179:52918",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:56:22.876588337Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:52918",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:56:25.947882711Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:52918",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T04:56:26.139073272Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:54065",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T05:06:41.20927033Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:54065",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T05:06:41.40018446Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/event-details?custom-race=5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:54065",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T05:06:48.856461363Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:54064",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T05:06:56.011058107Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:54064",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T05:06:56.235756322Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/results",
+    "RemoteAddr": "108.28.115.179:63628",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:52:44.718258262Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/loop/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63628",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:53:17.598971611Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/loop/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63628",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:53:21.648957992Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63628",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:53:46.918891475Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:63628",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:53:47.036513703Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/edit/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63693",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:54:22.736257757Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/custom/new/submit",
+    "RemoteAddr": "108.28.115.179:63691",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:54:40.227595655Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63691",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:54:43.106717526Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:63691",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:54:43.219138042Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/edit/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63722",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:54:49.082036218Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/custom/new/submit",
+    "RemoteAddr": "108.28.115.179:63722",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:55:04.186104293Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63722",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:55:09.392189918Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:63722",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:55:09.580113018Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/delete/371cd0f4-3e56-416f-8e1f-235d2b9b336f",
+    "RemoteAddr": "108.28.115.179:63722",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:55:32.331437467Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/delete/765e6e8f-fd10-410f-86f0-0efbc0a5236f",
+    "RemoteAddr": "108.28.115.179:63722",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:55:35.501656024Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/schedule/5657face-08c1-4842-b5b5-9ec77a29f70a/remove",
+    "RemoteAddr": "108.28.115.179:63722",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:55:41.253290692Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63722",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:55:46.510908567Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63820",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:57:44.077988279Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/edit/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63822",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:57:52.760931498Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/custom/new/submit",
+    "RemoteAddr": "108.28.115.179:63822",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:58:11.156221621Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:63822",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T14:58:13.321278387Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/custom/load/5657face-08c1-4842-b5b5-9ec77a29f70a",
+    "RemoteAddr": "108.28.115.179:53556",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T15:08:37.748757206Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:53556",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T15:08:38.008750131Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/process/restart",
+    "RemoteAddr": "108.28.115.179:53566",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T15:08:49.195010281Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/live-timing",
+    "RemoteAddr": "108.28.115.179:53566",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T15:08:49.382925809Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/process/restart",
+    "RemoteAddr": "108.28.115.179:58232",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T18:27:25.340610952Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/process/restart",
+    "RemoteAddr": "108.28.115.179:58929",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-28T18:29:36.758395075Z"
+  },
+  {
+    "User": "",
+    "UserGroup": "No Access",
+    "Action": "Page Load",
+    "Method": "GET",
+    "URL": "/login",
+    "RemoteAddr": "172.58.185.103:27311",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-29T18:35:23.759530026Z"
+  },
+  {
+    "User": "",
+    "UserGroup": "No Access",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/login",
+    "RemoteAddr": "172.58.185.103:24119",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-29T18:35:37.128074457Z"
+  },
+  {
+    "User": "",
+    "UserGroup": "No Access",
+    "Action": "Failed login (username: admin)",
+    "Method": "POST",
+    "URL": "/login",
+    "RemoteAddr": "172.58.185.103:24119",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-29T18:35:37.235169243Z"
+  },
+  {
+    "User": "",
+    "UserGroup": "No Access",
+    "Action": "Page Load",
+    "Method": "POST",
+    "URL": "/login",
+    "RemoteAddr": "172.58.185.103:24119",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-29T18:35:50.912890014Z"
+  },
+  {
+    "User": "admin",
+    "UserGroup": "Admin",
+    "Action": "Successful login",
+    "Method": "POST",
+    "URL": "/login",
+    "RemoteAddr": "172.58.185.103:24119",
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+    "Time": "2022-08-29T18:35:50.995693982Z"
+  }
+]

@@ -1,0 +1,476 @@
+{
+  "EnableKissMyRank": true,
+  "update_interval": 0,
+  "max_ping": 450,
+  "max_ping_deviation": 100,
+  "ping_check_interval": 15,
+  "web_stats_interface": 1,
+  "web_stats_server_address": "0.0.0.0",
+  "web_stats_server_port": 7789,
+  "web_stats_public_url": "",
+  "web_stats_drivers_per_page": 600,
+  "web_stats_cache_time": 60,
+  "web_stats_override_public_address": "",
+  "web_stats_override_public_port": 0,
+  "web_stats_results_show_lap_log": 0,
+  "web_admin_console_password": "",
+  "web_admin_console_guest_password": "",
+  "live_track_view": 1,
+  "web_auth_server_address": "0.0.0.0",
+  "web_auth_server_port": 12001,
+  "web_auth_cache_time": 60,
+  "web_auth_relay_to": [
+    ""
+  ],
+  "udp_relay_to": [
+    ""
+  ],
+  "currency_symbol": "$",
+  "thousand_separator": ",",
+  "start_money": 30,
+  "min_money": 0,
+  "no_money": 0,
+  "race_min_players": 2,
+  "race_driver_entry_fee": 0.3,
+  "race_sponsor_entry_fee": 1.5,
+  "race_sponsor_reward_base_length": 40,
+  "race_sponsor_reward_base_time": 15,
+  "race_sponsor_clean_gain_reward": 1,
+  "race_sponsor_clean_gain_overtakes": 5,
+  "race_fastest_lap_prize": 0.3,
+  "laptime_challenge_base_prize": 0.01,
+  "laptime_challenge_base_average_speed": 110,
+  "laptime_challenge_level_average_speed_gap": 1,
+  "alltime_fastest_lap_prize": 1.5,
+  "damage_cost_between_cars": 3,
+  "damage_cost_with_environment": 3,
+  "damage_cost_between_cars_base_speed": 100,
+  "damage_cost_with_environment_base_speed": 100,
+  "car_towing_cost": 0.05,
+  "jlp_money_kill_switch": 0,
+  "qualify_top_three_base_prize": 0.5,
+  "qualify_top_three_prize_min_players": 9,
+  "hotlap_protection": 45,
+  "lapping_protection": 40,
+  "relative_hotlap_protection": 0.008,
+  "relatve_lapping_protection": 0.007,
+  "warned_car_grace": 21,
+  "minimum_driving_standard": 1.1,
+  "minimum_driving_standard_laps": 12,
+  "minimum_driving_standard_recharge_period": 86400,
+  "minimum_driving_standard_min_players": 12,
+  "cut_lines_enabled": 1,
+  "max_collisions_per_100km": 30,
+  "max_collisions_per_100km_min_distance": 100,
+  "max_collisions_per_100km_recharge_hours": 6,
+  "reverse_gear_max_distance": 30,
+  "collision_minimum_damage_with_environment": 0.001,
+  "collision_minimum_damage_between_cars": 0.001,
+  "track_boundary_cut_max_speed": 30,
+  "track_boundary_same_lap_cut_max_speed": 80,
+  "track_boundary_sample_length": 3,
+  "clean_lap_reward": 0.05,
+  "anticheat_laptime_invalidate_max_clock_delta": 1000,
+  "anticheat_penalize_driver_max_clock_delta_consecutive_hits": 3,
+  "max_infractions": 6,
+  "parked_car_max_grace": 4,
+  "parked_car_seconds": 6,
+  "parked_car_distance": 24,
+  "right_to_be_forgotten_chat_command": 0,
+  "drive_through_no_kick": 0,
+  "time_based_race_extra_lap": 0,
+  "race_podium_announcement": 1,
+  "max_collisions": 6,
+  "track_rejoin_max_speed": 120,
+  "track_boundary_cut_max_time": 9,
+  "track_boundary_cut_gain_filter": 1,
+  "track_boundary_cut_gain_filter_min_loss_percent": 6,
+  "track_boundary_cut_gain_filter_min_average_speed": 45,
+  "driving_line_penalty_repeat_grace": 3,
+  "pit_speed_limit": 80,
+  "rolling_start": 0,
+  "improving_qualify_laptime_with_infractions_cutoff_percent": 107,
+  "vsc_speeding_max_grace": 3,
+  "vsc_slowing_max_grace": 9,
+  "vsc_default_speed_limit": 120,
+  "vsc_overtaking_max_grace": 12,
+  "vsc_formation_lap_speed_limit": 150,
+  "vsc_formation_lap_min_speed": 30,
+  "vsc_default_leader_slow_allow_overtake_speed": 30,
+  "vsc_default_slow_and_far_allow_overtake_speed": 40,
+  "vsc_default_slow_and_far_allow_overtake_distance": 75,
+  "vsc_formation_lap_far_allow_overtake_distance": 100,
+  "race_mass_accident_crashed_players_percentage": 45,
+  "race_mass_accident_crash_time": 30,
+  "race_mass_accident_min_crashed_players": 4,
+  "race_mass_accident_response": {
+    "first_lap": "VSC60",
+    "other_laps": "VSC60"
+  },
+  "race_control_password": "",
+  "race_control_max_events": 180,
+  "race_control_collision_space": 2.2,
+  "race_control_collision_time": 9,
+  "race_control_log_overtakes": 0,
+  "race_control_collision_replay_time": 6,
+  "race_control_cut_replay_time": 6,
+  "race_control_overtake_replay_time": 6,
+  "race_control_include_players_nearer_than": 100,
+  "database_sharing_unique_name": "",
+  "database_sharing_local_group_port": 0,
+  "database_sharing_remote_listen_port": 0,
+  "database_sharing_remote_secret_key": "",
+  "database_remote_listen_address": "0.0.0.0",
+  "database_sharing_remote_connect_to_addresses": [
+    ""
+  ],
+  "database_sharing_relay_for_names": [
+    ""
+  ],
+  "session_history_length": 30,
+  "memory_monitor_enabled": 0,
+  "speed_unit_format": "kmh",
+  "reserved_slots_guid_list": [
+    ""
+  ],
+  "reserved_slots_access_key": "",
+  "reserved_slots_boot_players_at_race": 0,
+  "rank_sort_by_win_stats": 0,
+  "ac_app_link_udp_port": 12002,
+  "custom_chat_driver_welcome_messages": [
+    "Welcome to this KissMyRank+Server Manager Enabled Server!",
+    "Have a good race!"
+  ],
+  "chat_driver_welcome_message_show_race_control_link": 1,
+  "ac_chat_admin_password": "",
+  "ac_chat_admin_guid_list": [
+    ""
+  ],
+  "penalty_infraction_map": {
+    "hotlap_protection": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "hotlapping_car_collision": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "lapping_protection": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "lapping_car_collision": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "reverse_gear": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "track_boundary_cut": {
+      "practice": 1,
+      "qualify": 1,
+      "race": 1
+    },
+    "track_rejoin_max_speed": {
+      "practice": 1,
+      "qualify": 1,
+      "race": 1
+    },
+    "max_infractions": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "max_collisions": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "first_blood": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "pit_lane_speeding": {
+      "practice": 1,
+      "qualify": 1,
+      "race": 1
+    },
+    "pit_exit_line_crossing": {
+      "practice": 1,
+      "qualify": 1,
+      "race": 1
+    },
+    "cut_line_your_custom_cut_line": {
+      "practice": 1,
+      "qualify": 1,
+      "race": 1
+    },
+    "anticheat_max_clock_delta_consecutive_hits": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "speeding_under_vsc": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "slowing_under_vsc": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "overtaking_under_vsc": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "improving_qualify_laptime_with_infractions": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    },
+    "parking_near_track": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0
+    }
+  },
+  "penalty_cost_map": {
+    "hotlap_protection": {
+      "practice": 0.1,
+      "qualify": 0.6,
+      "race": 0,
+      "other": 0
+    },
+    "hotlapping_car_collision": {
+      "practice": 0.1,
+      "qualify": 0.6,
+      "race": 0,
+      "other": 0
+    },
+    "lapping_protection": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0,
+      "other": 0
+    },
+    "lapping_car_collision": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0.6,
+      "other": 0
+    },
+    "reverse_gear": {
+      "practice": 0.1,
+      "qualify": 0.6,
+      "race": 0.6,
+      "other": 0
+    },
+    "track_boundary_cut": {
+      "practice": 0,
+      "qualify": 0.1,
+      "race": 0.05,
+      "other": 0
+    },
+    "track_rejoin_max_speed": {
+      "practice": 0,
+      "qualify": 0.1,
+      "race": 0.1,
+      "other": 0
+    },
+    "max_infractions": {
+      "practice": 0,
+      "qualify": 0.6,
+      "race": 0,
+      "other": 0
+    },
+    "max_collisions": {
+      "practice": 0.3,
+      "qualify": 0.6,
+      "race": 0.6,
+      "other": 0
+    },
+    "first_blood": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0.6,
+      "other": 0
+    },
+    "pit_lane_speeding": {
+      "practice": 0,
+      "qualify": 0.3,
+      "race": 0.6,
+      "other": 0
+    },
+    "pit_exit_line_crossing": {
+      "practice": 0.3,
+      "qualify": 0.6,
+      "race": 0.6,
+      "other": 0
+    },
+    "cut_line_your_custom_cut_line": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0,
+      "other": 0
+    },
+    "anticheat_max_clock_delta_consecutive_hits": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0,
+      "other": 0
+    },
+    "speeding_under_vsc": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0,
+      "other": 0
+    },
+    "slowing_under_vsc": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0,
+      "other": 0
+    },
+    "overtaking_under_vsc": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0,
+      "other": 0
+    },
+    "improving_qualify_laptime_with_infractions": {
+      "practice": 0,
+      "qualify": 0,
+      "race": 0,
+      "other": 0
+    },
+    "parking_near_track": {
+      "practice": 0.3,
+      "qualify": 0.6,
+      "race": 0.6,
+      "other": 0
+    }
+  },
+  "penalty_action_map": {
+    "hotlap_protection": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "hotlapping_car_collision": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "lapping_protection": {
+      "practice": "",
+      "qualify": "",
+      "race": "DT1"
+    },
+    "lapping_car_collision": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "reverse_gear": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "track_boundary_cut": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "track_rejoin_max_speed": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "max_infractions": {
+      "practice": "",
+      "qualify": "",
+      "race": "DT1"
+    },
+    "max_collisions": {
+      "practice": "K",
+      "qualify": "K",
+      "race": "K"
+    },
+    "first_blood": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "pit_lane_speeding": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "pit_exit_line_crossing": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "cut_line_your_custom_cut_line": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "anticheat_max_clock_delta_consecutive_hits": {
+      "practice": "K",
+      "qualify": "K",
+      "race": "K"
+    },
+    "speeding_under_vsc": {
+      "practice": "",
+      "qualify": "",
+      "race": "K"
+    },
+    "slowing_under_vsc": {
+      "practice": "",
+      "qualify": "",
+      "race": "K"
+    },
+    "overtaking_under_vsc": {
+      "practice": "",
+      "qualify": "",
+      "race": "K"
+    },
+    "improving_qualify_laptime_with_infractions": {
+      "practice": "",
+      "qualify": "",
+      "race": ""
+    },
+    "parking_near_track": {
+      "practice": "K",
+      "qualify": "K",
+      "race": "K"
+    }
+  },
+  "ac_server_ip": "",
+  "ac_server_http_port": 0,
+  "ac_server_plugin_local_port": 0,
+  "ac_server_plugin_address_port": 0,
+  "after_ac_server_start_run_path": "",
+  "before_ac_server_start_run_path": "",
+  "ac_server_restart_if_inactive_for_minutes": 90,
+  "ac_server_results_base_path": "",
+  "ac_server_cfg_ini_path": "",
+  "ac_server_bin_path": "",
+  "ac_server_bin_args": "",
+  "ac_server_log_path": "",
+  "max_players": 0,
+  "track_list": null,
+  "track_rotation_max_players": 0,
+  "track_rotation_vote_min_percent": 0,
+  "track_rotation_vote_min_votes": 0
+}

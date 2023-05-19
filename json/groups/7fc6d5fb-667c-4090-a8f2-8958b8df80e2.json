@@ -1,0 +1,50 @@
+{
+  "Created": "2022-08-28T02:22:55.737449145Z",
+  "Updated": "2022-08-28T02:22:55.737649656Z",
+  "Deleted": "0001-01-01T00:00:00Z",
+  "Name": "Read",
+  "Description": "A group allowing users to see things in Server Manager, but not edit them.",
+  "EditLocked": false,
+  "DeleteLocked": false,
+  "Permissions": {
+    "Permissions": {
+      "calendar.feed": {},
+      "calendar.view": {},
+      "championships.calendar-feed": {},
+      "championships.export": {},
+      "championships.export-results": {},
+      "championships.sign-up": {},
+      "championships.view": {},
+      "content.view-car-setups": {},
+      "content.view-cars": {},
+      "content.view-tracks": {},
+      "content.view-weather": {},
+      "custom-race.list": {},
+      "event.view-details-popup": {},
+      "live-timings.view": {},
+      "plugins.stracker-proxy": {},
+      "race-weekends.export": {},
+      "race-weekends.view": {},
+      "results.download": {},
+      "results.view": {}
+    },
+    "ID": [
+      127,
+      198,
+      213,
+      251,
+      102,
+      124,
+      64,
+      144,
+      168,
+      242,
+      137,
+      88,
+      184,
+      223,
+      128,
+      226
+    ]
+  }
+}

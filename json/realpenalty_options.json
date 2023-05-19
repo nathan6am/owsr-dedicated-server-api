@@ -1,0 +1,167 @@
+{
+  "RealPenaltyAppConfig": {
+    "General": {
+      "EnableRealPenalty": true,
+      "ProductKey": "",
+      "ACServerPath": "",
+      "ACCFGFile": "",
+      "ACTracksFolder": "",
+      "ACWeatherFolder": "",
+      "UDPPort": 0,
+      "UDPResponse": "",
+      "AppTCPPort": 53000,
+      "AppUDPPort": 53000,
+      "AppFile": "",
+      "ImagesFile": "",
+      "SoundsFile": "",
+      "TracksFolder": "",
+      "AdminPassword": "",
+      "ACServerManager": true
+    },
+    "PluginsRelay": {
+      "OtherUDPPlugin": "",
+      "UDPPort": ""
+    }
+  },
+  "RealPenaltySettings": {
+    "General": {
+      "EnableCuttingPenalties": true,
+      "EnableSpeedingPenalties": true,
+      "EnableCrossingPenalties": true,
+      "EnableDRSPenalties": true,
+      "LapsToTakePenalty": 2,
+      "PenaltySeconds": 20,
+      "LastTimeWithoutPenalty": 360,
+      "LastLapsWithoutPenalty": 1,
+      "TakingDuringSafetyCar": true
+    },
+    "Cutting": {
+      "EnabledDuringSafetyCar": true,
+      "TotalCutWarnings": 3,
+      "EnableTyresDirtLevel": false,
+      "WheelsOut": 3,
+      "MinSpeed": 40,
+      "SecondsBetweenCuts": 3,
+      "MaxCutTime": 3,
+      "MinSlowDownRatio": 0.9,
+      "QualifySlowDownSpeed": 40,
+      "QualifyMaxSectorOutSpeed": 150,
+      "QualifySlowDownSpeedRatio": 0.99,
+      "PostCuttingTime": 1,
+      "PenaltyType": "dt"
+    },
+    "Speeding": {
+      "PitLaneSpeed": 82,
+      "PenaltyType0": "dt",
+      "SpeedLimitPenalty0": 100,
+      "PenaltyType1": "sg10",
+      "SpeedLimitPenalty1": 200,
+      "PenaltyType2": "dsq",
+      "SpeedLimitPenalty2": 9999
+    },
+    "Crossing": {
+      "PenaltyType": "dt"
+    },
+    "JumpStart": {
+      "PenaltyType0": "dt",
+      "SpeedLimitPenalty0": 50,
+      "PenaltyType1": "sg10",
+      "SpeedLimitPenalty1": 200,
+      "PenaltyType2": "dsq",
+      "SpeedLimitPenalty2": 9999
+    },
+    "DRS": {
+      "PenaltyType": "dt",
+      "Gap": 1,
+      "EnabledAfterLaps": 0,
+      "MinSpeed": 50,
+      "BonusTime": 0.8,
+      "MaxIllegalUses": 2,
+      "EnabledDuringSafetyCar": false,
+      "OmitCars": ""
+    },
+    "BlueFlag": {
+      "QualifyTimeThreshold": 2.5,
+      "RaceTimeThreshold": 2.5
+    }
+  },
+  "RealPenaltyACSettings": {
+    "General": {
+      "FirstCheckTime": 5,
+      "CockpitCamera": false,
+      "TrackChecksum": false,
+      "WeatherChecksum": false,
+      "CarChecksum": false,
+      "QualifyTime": 10,
+      "EnteringPitLaneThresholdTime": 2
+    },
+    "App": {
+      "Mandatory": "true",
+      "CheckFrequency": 60
+    },
+    "Sol": {
+      "Mandatory": false,
+      "PerformanceModeAllowed": true,
+      "CheckFrequency": 60
+    },
+    "CustomShadersPatch": {
+      "Mandatory": false,
+      "CheckFrequency": 60
+    },
+    "SafetyCar": {
+      "CarModel": "",
+      "RaceStartBehindSC": false,
+      "NormalizedLightOffPosition": 0.5,
+      "NormalizedStartPosition": 0.95,
+      "GreenLightDelay": 5,
+      "VirtualSafetyCarReferenceLapName": "rss_formula_rss_3_v6",
+      "VirtualSafetyCarSlowRatio": 30,
+      "VirtualSafetyCarDeltaThreshold": 0.5,
+      "VirtualSafetyCarDelayThreshold": 3,
+      "VirtualSafetyCarDeltaDelay": 2,
+      "VirtualSafetyCarPenaltyType0": "10",
+      "VirtualSafetyCarDeltaLimit0": 5,
+      "VirtualSafetyCarPenaltyType1": "sg10",
+      "VirtualSafetyCarDeltaLimit1": 10,
+      "VirtualSafetyCarPenaltyType2": "dsq",
+      "VirtualSafetyCarDeltaLimit2": 1111,
+      "FullCourseYellowSpeed": 80
+    },
+    "NoPenalty": {
+      "GUIDs": "76000000000000000;76000000000000001",
+      "Cars": ""
+    },
+    "Admin": {
+      "GUIDs": "76000000000000000;76000000000000001"
+    },
+    "Helicorsa": {
+      "Mandatory": true,
+      "DistanceThreshold": 30,
+      "WorldZoom": 5,
+      "OpacityThreshold": 8,
+      "FrontFadeOutArc": 90,
+      "FrontFadeAngle": 10,
+      "CarLength": 4.3,
+      "CarWidth": 1.8
+    },
+    "Swap": {
+      "Enabled": false,
+      "MinTime": "_",
+      "MinCount": "_",
+      "EnablePenalty": true,
+      "PenaltyTime": 5,
+      "PenaltyDuringRace": true,
+      "ConvertTimePenalty": true,
+      "ConvertRacePenalty": true,
+      "DisqualifyTime": "_",
+      "CountOnlyDriverChange": true,
+      "MinTimeForEveryPit": false
+    },
+    "Teleport": {
+      "MaxDistance": 10,
+      "PracticeEnabled": true,
+      "QualifyEnabled": true,
+      "RaceEnabled": true
+    }
+  }
+}

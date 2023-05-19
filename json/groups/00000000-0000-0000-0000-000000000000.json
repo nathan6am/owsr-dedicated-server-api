@@ -1,0 +1,30 @@
+{
+  "Created": "2022-08-28T02:22:55.737132389Z",
+  "Updated": "2022-08-28T02:22:55.737133176Z",
+  "Deleted": "0001-01-01T00:00:00Z",
+  "Name": "No Access",
+  "Description": "Has no permissions. User cannot perform any actions on this server. This group cannot be deleted.",
+  "EditLocked": true,
+  "DeleteLocked": true,
+  "Permissions": {
+    "Permissions": {},
+    "ID": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

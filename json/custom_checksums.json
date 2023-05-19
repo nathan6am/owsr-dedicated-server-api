@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "id": "5cc1c136-1bb1-4479-8c7f-04e795a05232",
+      "name": "Helicorsa",
+      "filepath": "apps/python/helicorsa/helicorsa.py",
+      "checksum": ""
+    },
+    {
+      "id": "3845f0b4-1368-4fa5-98c5-139dbe78ddbb",
+      "name": "Custom Shaders Patch",
+      "filepath": "dwrite.dll",
+      "checksum": ""
+    },
+    {
+      "id": "7d496bd3-8282-4024-978f-c69102536f07",
+      "name": "Sol",
+      "filepath": "apps/python/sol_weather/sol_weather.py",
+      "checksum": ""
+    },
+    {
+      "id": "641f459a-2e6f-45e3-9aec-de4c9a74e18e",
+      "name": "Crew Chief",
+      "filepath": "apps/python/CrewChiefEx/CrewChiefEx.py",
+      "checksum": ""
+    }
+  ]
+}
